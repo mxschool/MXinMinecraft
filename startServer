@@ -1,0 +1,3 @@
+# Script to run paper from our production server
+java -Xmx4G -Xms1G -jar paper-128.jar &
+disown
