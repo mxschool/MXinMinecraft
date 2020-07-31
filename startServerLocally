@@ -1,2 +1,2 @@
 # Script to use Java8 on my personal laptop, used for testing
-/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xms1G -Xmx4G -jar paper-128.jar
+/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xms1G -Xmx4G -jar paper-129.jar
